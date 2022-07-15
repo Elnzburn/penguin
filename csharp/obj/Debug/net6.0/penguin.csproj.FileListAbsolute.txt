@@ -1,0 +1,15 @@
+C:\Users\mrchi\OneDrive\Documents\penguin\penguin\bin\Debug\net6.0\penguin.exe
+C:\Users\mrchi\OneDrive\Documents\penguin\penguin\bin\Debug\net6.0\penguin.deps.json
+C:\Users\mrchi\OneDrive\Documents\penguin\penguin\bin\Debug\net6.0\penguin.runtimeconfig.json
+C:\Users\mrchi\OneDrive\Documents\penguin\penguin\bin\Debug\net6.0\penguin.dll
+C:\Users\mrchi\OneDrive\Documents\penguin\penguin\bin\Debug\net6.0\penguin.pdb
+C:\Users\mrchi\OneDrive\Documents\penguin\penguin\obj\Debug\net6.0\penguin.csproj.AssemblyReference.cache
+C:\Users\mrchi\OneDrive\Documents\penguin\penguin\obj\Debug\net6.0\penguin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrchi\OneDrive\Documents\penguin\penguin\obj\Debug\net6.0\penguin.AssemblyInfoInputs.cache
+C:\Users\mrchi\OneDrive\Documents\penguin\penguin\obj\Debug\net6.0\penguin.AssemblyInfo.cs
+C:\Users\mrchi\OneDrive\Documents\penguin\penguin\obj\Debug\net6.0\penguin.csproj.CoreCompileInputs.cache
+C:\Users\mrchi\OneDrive\Documents\penguin\penguin\obj\Debug\net6.0\penguin.dll
+C:\Users\mrchi\OneDrive\Documents\penguin\penguin\obj\Debug\net6.0\refint\penguin.dll
+C:\Users\mrchi\OneDrive\Documents\penguin\penguin\obj\Debug\net6.0\penguin.pdb
+C:\Users\mrchi\OneDrive\Documents\penguin\penguin\obj\Debug\net6.0\penguin.genruntimeconfig.cache
+C:\Users\mrchi\OneDrive\Documents\penguin\penguin\obj\Debug\net6.0\ref\penguin.dll
